@@ -50,7 +50,7 @@ java -jar selenium-server-4.15.0.jar node --hub http://localhost:4444 --port 555
 ```
 mvn clean
 ```
-THEN BUILD PROJECT
+### THEN BUILD PROJECT
 ```
 mvn test
 ```
